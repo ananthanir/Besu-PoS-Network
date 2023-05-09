@@ -1,1 +1,1 @@
-# Besu-PoS-Network
+# Besu-PoA-2Nodes
