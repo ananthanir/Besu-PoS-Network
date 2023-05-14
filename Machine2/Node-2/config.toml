@@ -8,6 +8,9 @@ pruning-enabled=true
 nat-method="DOCKER"
 host-whitelist=["*"]
 
+# No Cost Tx
+min-gas-price=0
+
 # P2P related
 
 p2p-host="127.0.0.1"
