@@ -8,4 +8,4 @@ services:
       - .:/Node-1/:rw
       - ./data:/Node-1/data:rw
     command: --config-file=/Node-1/config.toml
-    # user: "0"
+    user: "0"
